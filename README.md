@@ -1,4 +1,6 @@
-# flask_getting_started
-Flask Mini Project
+Flask Getting Started Project
 
-Converting flask code to run on a virtual machine
+## Developed by: Souhaila Noor
+## BME590: Medical Design Software
+
+* Developing a program that runs flask code in a virutal machine 
