@@ -30,3 +30,6 @@ def main():
     message = get_hello_name()
     distance = get_distance()
     return name, message, distance
+
+if __name__ == "__main__":
+    main()
